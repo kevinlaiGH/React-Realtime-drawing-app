@@ -1,0 +1,16 @@
+2018-03-18T20:15:44.342370000 0.187158s notice: Recursively removing directory /Users/kevin/sites/react_js/in_progress/pluralsight/React-Socketio-RethinkDB-Realtime-Drawing-App/rethinkdb_data/tmp
+2018-03-18T20:15:44.343809000 0.188602s notice: Initializing directory /Users/kevin/sites/react_js/in_progress/pluralsight/React-Socketio-RethinkDB-Realtime-Drawing-App/rethinkdb_data
+2018-03-18T20:15:44.343923000 0.188711s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/kevin/sites/react_js/in_progress/pluralsight/React-Socketio-RethinkDB-Realtime-Drawing-App/rethinkdb_data' did not already exist or is empty.)
+2018-03-18T20:15:44.343974000 0.188762s notice: Running rethinkdb 2.3.6 (CLANG 9.0.0 (clang-900.0.37))...
+2018-03-18T20:15:44.351720000 0.196508s notice: Running on Darwin 17.4.0 x86_64
+2018-03-18T20:15:44.351781000 0.196569s notice: Loading data from directory /Users/kevin/sites/react_js/in_progress/pluralsight/React-Socketio-RethinkDB-Realtime-Drawing-App/rethinkdb_data
+2018-03-18T20:15:44.404814000 0.249600s info: Automatically using cache size of 100 MB
+2018-03-18T20:15:44.404825000 0.249611s warn: Cache size is very low and may impact performance.
+2018-03-18T20:15:44.405465000 0.250251s notice: Listening for intracluster connections on port 29015
+2018-03-18T20:15:44.407307000 0.252093s notice: Listening for client driver connections on port 28015
+2018-03-18T20:15:44.407434000 0.252219s notice: Listening for administrative HTTP connections on port 8080
+2018-03-18T20:15:44.407436000 0.252222s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2018-03-18T20:15:44.407445000 0.252231s notice: Listening on driver addresses: 127.0.0.1, ::1
+2018-03-18T20:15:44.407447000 0.252233s notice: Listening on http addresses: 127.0.0.1, ::1
+2018-03-18T20:15:44.407456000 0.252241s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2018-03-18T20:15:44.407464000 0.252250s notice: Server ready, "Kevins_MacBook_Pro_local_vbq" ad19ba0c-486f-4ba4-b4d0-f5d592b54f97
